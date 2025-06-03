@@ -1,0 +1,16 @@
+Date,Category,Amount,PaymentMethod,Description
+2024-05-01,Groceries,45.50,Card,Walmart groceries
+2024-05-02,Transport,15.00,Cash,Uber ride
+2024-05-03,Entertainment,120.00,Card,Concert ticket
+2024-05-03,Utilities,75.30,Card,Electricity bill
+2024-05-04,Groceries,,Cash,Local market
+2024-05-04,Shopping,250.00,Card,Shoes
+2024-05-05,Food,12.75,Cash,Lunch at cafe
+2024-05-06,Transport,13.00,Cash,Bus fare
+2024-05-06,Entertainment,3000.00,Card,Gaming console
+2024-05-07,Utilities,78.00,Card,Water bill
+2024-05-08,Groceries,42.10,Cash,Supermarket
+2024-05-08,Food,10.00,Cash,Sandwich
+2024-05-09,Transport,12.50,Cash,Metro
+2024-05-09,Groceries,2000.00,Card,Bulk rice purchase
+2024-05-10,Shopping,180.00,Card,Clothes
