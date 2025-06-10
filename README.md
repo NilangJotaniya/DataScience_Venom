@@ -1,6 +1,8 @@
 
 # 🧪 DataScience_Venom
 
+[![Python](https://img.shields.io/badge/python-3.x-blue)]()
+
 Welcome to **DataScience_Venom**, a collection of beginner-to-intermediate level projects and notebooks in **Data Science**, **Machine Learning**, and **NLP** using Python. This repository serves as a practical learning lab to explore concepts through real-world datasets, code experiments, and personal mini-projects.
 
 ---
